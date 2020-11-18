@@ -23,6 +23,7 @@
 <link rel="stylesheet" type="text/css" href="css/style_view.css" />
 <link rel="stylesheet" type="text/css" href="css/everyone.css">
 <link href = "css/menubar_style.css" rel = "stylesheet" type = text/css>
+
 </head>
 
 <body>
@@ -74,8 +75,5 @@
                 include("view_forms/test_Scores.php");
           ?>
         </div>
-
-
-
 </body>
 </html>

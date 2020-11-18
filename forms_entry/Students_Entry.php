@@ -98,7 +98,7 @@ if($opr=="upd")
 	list($y,$m,$d)=explode('-',$row['dob']);
 ?>
 
-<!-- for form Upadte-->
+<!-- for form update-->
 
 <div class="panel panel-default">
   		<div class="panel-heading"><h1><span class="glyphicon glyphicon-user"></span> Student Entry Form</h1></div>
