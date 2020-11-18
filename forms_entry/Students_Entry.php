@@ -85,7 +85,7 @@ if(isset($_POST['btn_upd'])){
 <link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap.min.css"/>
 <link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap-theme.css"/>
 <link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap-theme.min.css"/>
-<link rel="stylesheet" type="text/css" href="../css/style_entry.css" />
+
 </head>
 <body>
 <?php
@@ -319,5 +319,7 @@ else
 <?php
 }
 ?>
+
+
 </body>
 </html>
