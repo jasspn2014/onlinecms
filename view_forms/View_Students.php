@@ -26,11 +26,12 @@ if(isset($_GET['rs_id']))
 	echo $msg;
 ?>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" type="text/css" href="../css/style_view.css" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Online College Management System</title>
 </head>
 
 <body>
@@ -104,16 +105,3 @@ if(isset($_GET['rs_id']))
 </div>
 </body>
 </html>
-
-
-<!--
-<td>
-        	<a href="?tag=student_entry"><input type="button" title="Add new student" name="butAdd" value="Add New" id="button-search" /></a>
-        </td>
-        <td>
-        	<input type="text" name="searchtxt" title="Enter name for search " class="search" autocomplete="off"/>
-        </td>
-        <td style="float:right">
-        	<input type="submit" name="btnsearch" value="Search" id="button-search" title="Search Student" />
-        </td>
--->

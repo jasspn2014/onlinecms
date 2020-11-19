@@ -92,11 +92,12 @@ if($sql_update==true)
 		$msg="Update Failed...!";
 	}
 ?>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<link rel="stylesheet" type="text/css" href="../css/style_entry.css" />
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<title>Welcome to College Management system</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Online College Management System</title>
 </head>
 
 <body>
