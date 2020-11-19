@@ -22,7 +22,8 @@
 <link rel="stylesheet" type="text/css" href="css/style_entry.css" />
 <link rel="stylesheet" type="text/css" href="css/style_view.css" />
 <link rel="stylesheet" type="text/css" href="css/everyone.css">
-<link href = "css/menubar_style.css" rel = "stylesheet" type = text/css>
+<link rel = "stylesheet" type = "text/css" href = "css/menubar_style.css" />
+<link rel = "stylesheet" type = "text/css" href = "css/home.css" />
 </head>
 
 <body>
@@ -76,8 +77,6 @@
         </div>
 
 
-<div class="data-container">
-  
-</div>
+
 </body>
 </html>
