@@ -1,7 +1,11 @@
  
 				
 <nav class="menu">
-        <ol>
+         <ol>
+            <li class="menu-item">
+               <a href="everyone.php">Home</a>
+            </li>
+            
           <li class="menu-item">
             <a href="#0">Students</a>
             <ol class="sub-menu">
